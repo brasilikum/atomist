@@ -1,0 +1,2 @@
+# atomist
+My new project
